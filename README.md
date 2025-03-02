@@ -1,3 +1,8 @@
+run 
+
+python object_detection.py
+
+
 # Introduction
 A lot of sensors are mounted on modern vehicles. Software is needed to process the data generated from the sensors. The software can run locally, over the cloud, or in a hybrid way. Modern vehicles are able to perform a lot of tasks:
 * localization: to accurate localize itselvies on the map.
